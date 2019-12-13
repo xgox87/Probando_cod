@@ -8,5 +8,6 @@ namespace Probando_console_app
 {
     class Class1
     {
+        private int num;
     }
 }
