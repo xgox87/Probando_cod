@@ -11,7 +11,10 @@ namespace Probando_console_app
         static void Main(string[] args)
         {
             Console.WriteLine("hello world");
-            Console.WriteLine("hello world");
+            Console.WriteLine("hello world 2");
+
+            Console.WriteLine("hell este");
+
         }
     }
 }
